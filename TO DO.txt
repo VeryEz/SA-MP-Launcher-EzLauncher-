@@ -1,0 +1,27 @@
+﻿MENU STRUCTURE 
+
+WHILE PROGRAM IS ACTIVE
+- KEY BINDINGS 
+  • LCTRL + 1 = Join last visited server
+  • LCTRL + 2 = opens open-mp servers site
+  • S + 1 = joins to uif
+  • F1 = devs site
+  • 
+
+  To Add
+    (all saves done through registry)
+  - Add save options which will save user input on columns size such as width
+  - Add context menu which will be enabled by left click on the wpf app
+  - Add ping inside context menu
+  - Add player text box name in context menu
+  - Add ping bars on datagrid view for each server on the left side
+  - Add fav servers menu (coming in next update)
+  - Allow user to add keybinds for fav servers 
+  - Add Gallery Menu for samp/gallery images located in documents
+  - Add radio lol
+  - 
+
+  SETTINGS
+  - ON/OFF Background pulsating transparency
+  - should save all currently selected options automatically so that the user don't need to adjust them every time
+
